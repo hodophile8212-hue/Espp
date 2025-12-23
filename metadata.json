@@ -1,0 +1,10 @@
+{
+  "name": "ESP8266 LED Controller Pro",
+  "description": "A sophisticated dashboard to control your ESP8266 built-in LED over a local network, featuring AI-powered setup assistance and troubleshooting.",
+  "requestFramePermissions": [],
+  "permissions": [
+    "INTERNET",
+    "ACCESS_NETWORK_STATE",
+    "ACCESS_WIFI_STATE"
+  ]
+}
